@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Portfolio Website of Mine
 
-## Getting Started
+A visually appealing, responsive, single-page portfolio website designed to showcase my skills, projects, and expertise as a Full-Stack & Blockchain Developer. Built with a modern tech stack and following best design practices, this project highlights a clean layout, smooth navigation, and dynamic features.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔗 Live Demo
+[Check it out here]()
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📌 Features
+Hero Section: Engaging introduction with a professional tagline and call-to-action buttons.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+About Section: A brief bio showcasing my background and expertise.
 
-## Learn More
+Skills Section: Grid layout with icons for technical skills.
 
-To learn more about Next.js, take a look at the following resources:
+Projects Section: Highlighting key projects with previews, descriptions, GitHub repository and live links.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Education & Interests: Academic background and areas of interest, such as Blockchain Development and Full Stack Development.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Contact Section: A functional form to connect with me directly.
 
-## Deploy on Vercel
+Footer: Social media links and quick navigation options.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Tech Stack
+Frontend: Next.js, Tailwind CSS 
+
+Backend : Next.js, MongoDB
+
+Deployment: Hosted on Vercel
+
+
+## 💡 Highlights
+Responsive Design: Optimized for all screen sizes.
+
+Modern UI/UX: Smooth scrolling, clean typography, and consistent color palette.
+
+Customizable: Easily tweak the colors, layout, or content for future updates.
