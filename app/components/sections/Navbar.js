@@ -12,8 +12,8 @@ const Navbar = () => {
   };
 
   return (
-    <div>
-      <nav className="flex justify-between items-center bg-primary px-4 lg:px-6 py-3 text-xs lg:text-sm">
+    <div className="bg-secondary">
+      <nav className="flex justify-between items-center bg-primary text-xs w-5/6 mx-auto lg:text-sm  px-4 lg:px-6 py-3 rounded-xl">
         <Link href="#hero">
           <h1 className="font-bold text-lg lg:text-xl text-white uppercase tracking-widest">
             Priya V
